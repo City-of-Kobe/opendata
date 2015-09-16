@@ -80,8 +80,8 @@
 <marker number='79' area='東灘区' name='学校法人甲南学園 5号館3階サイバーライブラリー' zipcode='658-0072' location='神戸市東灘区岡本8丁目9-1' category='学校・園・児童館' lat='34.729784' lng='135.269318' note='対応不可'  />
 <marker number='80' area='東灘区' name='学校法人甲南学園 図書館1階カウンター' zipcode='658-0072' location='神戸市東灘区岡本8丁目9-1' category='学校・園・児童館' lat='34.728919' lng='135.267894' note='対応不可'  />
 <marker number='81' area='東灘区' name='学校法人甲南学園 13号館管理人室' zipcode='658-0073' location='神戸市東灘区西岡本6丁目1-1' category='学校・園・児童館' lat='34.730142' lng='135.264689' note='対応不可'  />
-<marker number='82' area='東灘区' name='学校法人甲南学園 7号館管理人室' zipcode='658-0072' location='神戸市東灘区岡本字十文字山1200' category='学校・園・児童館' lat='34.730949' lng='135.264707' note='対応不可'  />
-<marker number='83' area='東灘区' name='学校法人甲南学園 六アイ体育館医務室' zipcode='658-0032' location='神戸市東灘区向洋中町8-2' category='学校・園・児童館' lat='34.68322' lng='135.267812' note='対応不可'  />
+<marker number='82' area='東灘区' name='学校法人甲南学園 7号館管理人室' zipcode='658-0072' location='神戸市東灘区本山町岡本字十文字山1200' category='学校・園・児童館' lat='34.730949' lng='135.264707' note='対応不可'  />
+<marker number='83' area='東灘区' name='学校法人甲南学園 六アイ体育館医務室' zipcode='658-0032' location='神戸市東灘区向洋町中8-2' category='学校・園・児童館' lat='34.68322' lng='135.267812' note='対応不可'  />
 <marker number='84' area='東灘区' name='学校法人甲南学園 六アイ南グラウンド' zipcode='658-0032' location='神戸市東灘区向洋町中9-4' category='学校・園・児童館' lat='34.682146' lng='135.267291' note='対応不可'  />
 <marker number='85' area='東灘区' name='神戸市建設局水環境センター' zipcode='658-0025' location='神戸市東灘区魚崎南町2丁目1番23号' category='官公庁' lat='34.710584' lng='135.27923' note='対応不可'  />
 <marker number='86' area='東灘区' name='灘中学校灘高等学校' zipcode='658-0082' location='神戸市東灘区魚崎北町8丁目5-1' category='学校・園・児童館' lat='34.718512' lng='135.268787' note='対応不可'  />
@@ -228,7 +228,7 @@
 <marker number='231' area='東灘区' name='社会福祉法人 千種会 メディカルケアハウス甲南山手' zipcode='658-0012' location='神戸市東灘区本庄町2丁目8-36' category='福祉施設' lat='34.726936' lng='135.292679' note='24時間利用可'  />
 <marker number='232' area='東灘区' name='社会福祉法人 夢工房 夢保育園' zipcode='658-0053' location='神戸市東灘区住吉宮町1-2-27' category='学校・園・児童館' lat='34.71277' lng='135.265082' note='対応不可'  />
 <marker number='233' area='東灘区' name='社会福祉法人 夢工房 夢保育園遊喜分園' zipcode='658-0053' location='神戸市東灘区住吉宮町1-8-8' category='学校・園・児童館' lat='34.713006' lng='135.263499' note='対応不可'  />
-<marker number='234' area='東灘区' name='社会福祉法人 千種会 特別養護老人ホーム甲南山手' zipcode='658-0012' location='神戸市東灘区本庄町2丁目10-2' category='福祉施設' lat='34.727921' lng='135.294101' note='24時間利用可'  />
+<marker number='234' area='東灘区' name='社会福祉法人 千種会 特別養護老人ホーム甲南山手' zipcode='658-0012' location='神戸市東灘区本庄町1丁目10-2' category='福祉施設' lat='34.727921' lng='135.294101' note='24時間利用可'  />
 <marker number='235' area='東灘区' name='株式会社 神戸サンソ' zipcode='658-0025' location='神戸市東灘区魚崎南町3丁目2-2' category='会社・事業所' lat='34.708266' lng='135.274601' note='対応不可'  />
 <marker number='236' area='東灘区' name='社会福祉法人 千種会 メディカルグループホーム甲南山手' zipcode='658-0016' location='神戸市東灘区本山中町1丁目15-7' category='福祉施設' lat='34.728617' lng='135.287425' note='24時間利用可'  />
 <marker number='237' area='東灘区' name='サンライフ住吉川' zipcode='658-0052' location='神戸市東灘区住吉東町1丁目3-17-3' category='福祉施設' lat='34.715384' lng='135.267329' note='24時間利用可'  />
@@ -244,7 +244,7 @@
 <marker number='247' area='東灘区' name='（株）ベネッセスタイルケア メディカルホームグランダ深江南' zipcode='658-0022' location='神戸市東灘区深江南町2丁目8-25' category='福祉施設' lat='34.72206' lng='135.299818' note='24時間利用可'  />
 <marker number='248' area='東灘区' name='御影クラッセ' zipcode='658-0054' location='神戸市東灘区御影中町3丁目2-1' category='商業施設' lat='34.715617' lng='135.254806' note='対応不可'  />
 <marker number='249' area='東灘区' name='本住吉神社' zipcode='658-0053' location='神戸市東灘区住吉宮町7-1-2' category='その他' lat='34.71873' lng='135.259912' note='対応不可'  />
-<marker number='250' area='東灘区' name='頌栄短期大学Ｂ棟' zipcode='658-0063' location='神戸市東灘区住吉山手1丁目18-1' category='学校・園・児童館' lat='34.727129' lng='135.248729' note='対応不可'  />
+<marker number='250' area='東灘区' name='頌栄短期大学Ｂ棟' zipcode='658-0063' location='神戸市東灘区御影山手1丁目18-1' category='学校・園・児童館' lat='34.727129' lng='135.248729' note='対応不可'  />
 <marker number='251' area='東灘区' name='頌栄短期大学Ｄ棟' zipcode='658-0064' location='神戸市東灘区鴨子ヶ原3丁目32-20' category='学校・園・児童館' lat='34.728142' lng='135.248832' note='対応不可'  />
 <marker number='252' area='東灘区' name='頌栄幼稚園' zipcode='658-0063' location='神戸市東灘区住吉山手1丁目18-1' category='学校・園・児童館' lat='34.727005' lng='135.249616' note='対応不可'  />
 <marker number='253' area='東灘区' name='日本年金機構 東灘年金事務所' zipcode='658-0053' location='神戸市東灘区住吉宮町1丁目11-17' category='官公庁' lat='34.713318' lng='135.265391' note='対応不可'  />
@@ -916,7 +916,7 @@
 <marker number='14' area='北区' name='ＡＸＴＯＳ鈴蘭台店' zipcode='651-1147' location='神戸市北区松宮台2丁目27－8' category='体育施設・スポーツクラブ' lat='34.738058' lng='135.144002' note='対応不可'  />
 <marker number='15' area='北区' name='（財）こうべ市民福祉振興協会 神戸市シルバーカレッジ' zipcode='651-1102' location='神戸市北区山田町下谷上字中一里山14番地の1 しあわせの村内' category='学校・園・児童館' lat='34.702665' lng='135.117441' note='対応不可'  />
 <marker number='16' area='北区' name='神戸拘置所' zipcode='651-1124' location='神戸市北区ひよどり北町2－1' category='官公庁' lat='34.706111' lng='135.120007' note='対応不可'  />
-<marker number='17' area='北区' name='神戸市民防災総合センター' zipcode='651-1123' location='神戸市北区ひよどり台北町3－1' category='官公庁' lat='34.707911' lng='135.119902' note='対応不可'  />
+<marker number='17' area='北区' name='神戸市民防災総合センター' zipcode='651-1123' location='神戸市北区ひよどり北町3－1' category='官公庁' lat='34.707911' lng='135.119902' note='対応不可'  />
 <marker number='18' area='北区' name='有野北中学校' zipcode='651-1301' location='神戸市北区藤原台北町6-4-1' category='学校・園・児童館' lat='34.829764' lng='135.223335' note='対応不可'  />
 <marker number='19' area='北区' name='有野中学校' zipcode='651-1302' location='神戸市北区藤原台中町5-2-1' category='学校・園・児童館' lat='34.821516' lng='135.214193' note='対応不可'  />
 <marker number='20' area='北区' name='有馬中学校' zipcode='651-1321' location='神戸市北区有野台7-18' category='学校・園・児童館' lat='34.809504' lng='135.226857' note='対応不可'  />
@@ -1407,7 +1407,7 @@
 <marker number='103' area='須磨区' name='キャンディタフト月見山' zipcode='654-0044' location='神戸市須磨区稲葉町3丁目2－23' category='福祉施設' lat='34.649556' lng='135.127026' note='24時間利用可'  />
 <marker number='104' area='須磨区' name='グランドパレス上須磨' zipcode='654-0112' location='神戸市須磨区若草町1-2-5' category='集合住宅' lat='34.686876' lng='135.110681' note='24時間利用可'  />
 <marker number='105' area='須磨区' name='兵庫六甲農業協同組合' zipcode='654-0151' location='神戸市須磨区北落合1丁目4－36' category='商業施設' lat='34.686294' lng='135.094597' note='対応不可'  />
-<marker number='106' area='須磨区' name='奥須磨公園' zipcode='654-0133' location='神戸市須磨区多井畑字池の奥山18' category='公園・文教施設' lat='34.661751' lng='135.100022' note='対応不可'  />
+<marker number='106' area='須磨区' name='奥須磨公園' zipcode='654-0133' location='神戸市須磨区多井畑字池の奥上18' category='公園・文教施設' lat='34.661751' lng='135.100022' note='対応不可'  />
 <marker number='107' area='須磨区' name='多井畑厄除八幡宮' zipcode='654-0133' location='神戸市須磨区多井畑字宮脇壱番地' category='その他' lat='34.662234' lng='135.095582' note='対応不可'  />
 <marker number='108' area='須磨区' name='綱敷天満宮' zipcode='654-0053' location='神戸市須磨区天神町2丁目1-11' category='その他' lat='34.644573' lng='135.119238' note='対応不可'  />
 <marker number='109' area='須磨区' name='菅の台地域福祉センター' zipcode='654-0143' location='神戸市須磨区菅の台4丁目5番' category='小集会場・公民館・地域福祉センター' lat='34.672797' lng='135.085452' note='対応不可'  />
@@ -1777,7 +1777,7 @@
 <marker number='85' area='西区' name='三井住友銀行 神戸学園都市出張所' zipcode='651-2103' location='神戸市西区学園西町1丁目13番' category='商業施設' lat='34.681478' lng='135.057876' note='対応不可'  />
 <marker number='86' area='西区' name='三井住友銀行 西神中央支店' zipcode='651-2273' location='神戸市西区糀台5丁目10-2' category='商業施設' lat='34.719841' lng='135.016715' note='対応不可'  />
 <marker number='87' area='西区' name='神戸製綱所 技術開発本部' zipcode='651-2271' location='神戸市西区高塚台1丁目5-5' category='会社・事業所' lat='34.733104' lng='135.028295' note='対応不可'  />
-<marker number='88' area='西区' name='学校法人　甲南学園　合宿所' zipcode='651-2302' location='神戸市西区神出町古神字浦山48' category='学校・園・児童館' lat='34.767581' lng='135.006805' note='対応不可'  />
+<marker number='88' area='西区' name='学校法人　甲南学園　合宿所' zipcode='651-2302' location='神戸市西区神出町古神字浦山233-48' category='学校・園・児童館' lat='34.767581' lng='135.006805' note='対応不可'  />
 <marker number='89' area='西区' name='コニカミノルタ（株）神戸サイト' zipcode='651-2271' location='神戸市西区高塚台1丁目5-3' category='会社・事業所' lat='34.73347' lng='135.026318' note='対応不可'  />
 <marker number='90' area='西区' name='コニカミノルタ（株）西神サイト' zipcode='651-2271' location='神戸市西区高塚台4丁目4-1' category='会社・事業所' lat='34.724981' lng='135.021719' note='対応不可'  />
 <marker number='91' area='西区' name='老人保健施設 ハーベスピア' zipcode='651-2113' location='神戸市西区伊川谷町有瀬1432-1' category='福祉施設' lat='34.662766' lng='135.012817' note='対応不可'  />
